@@ -1,6 +1,6 @@
 # Hello 👋
 # About me 💬
-### 😎 My name is Dmitriy. 17 y.o., NameLess Corporation
+### 😎 My name is Dmitriy. 18 y.o., NameLess Corporation
 ### 🌏 I speak Russian and English
 ### 💻 Software languages: Python, Java
 ### 💻 Frontend languages: HTML, CSS, JS, LESS, Vue.js
