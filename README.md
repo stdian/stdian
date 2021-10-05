@@ -2,8 +2,8 @@
 # About me 💬
 ### 😎 My name is Dmitriy. 18 y.o., NameLess Corporation
 ### 🌏 I speak Russian, English and Czech
-### 💻 Software languages: Python, Java
-### 💻 Frontend languages: HTML, CSS, JS, LESS, Vue.js
+### 💻 Software: Python, Java
+### 💻 Frontend: HTML, CSS, JS, LESS, Vue.js, React
 
 ![Profile views](https://gpvc.arturio.dev/stdian) [![Discord](https://img.shields.io/discord/416940275223625738)](https://discord.gg/tfanwYd)
 # GitHub Stats 📈
