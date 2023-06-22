@@ -5,7 +5,7 @@
 ### 💻 Software: Python, Java
 ### 💻 Frontend: HTML, CSS, JS, SCSS, LESS, React
 
-![Profile views](https://gpvc.arturio.dev/stdian) [![Discord](https://img.shields.io/discord/416940275223625738)](https://discord.gg/tfanwYd)
+![Profile views](https://komarev.com/ghpvc/?username=stdian&color=brightgreen) [![Discord](https://img.shields.io/discord/416940275223625738)](https://discord.gg/tfanwYd)![](https://hit.yhype.me/github/profile?user_id=15340847)
 # GitHub Stats 📈
 ![stdian's github stats](https://github-readme-stats.vercel.app/api?username=stdian&show_icons=true&count_private=true&theme=graywhite&include_all_commits=true&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stdian&layout=compact&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
