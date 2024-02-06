@@ -1,9 +1,9 @@
 # Hello 👋
 # About me 💬
-### 😎 My name is Dmitriy. 20 y.o., NameLess Corporation
+### 😎 My name is Dmitriy. 21 y.o., NameLess Corporation
 ### 🌏 I speak Russian, English and Czech
 ### 💻 Software: Python, Java
-### 💻 Frontend: HTML, CSS, JS, SCSS, LESS, React
+### 💻 Frontend: HTML, CSS, JS, SCSS, React, Redux, styled-components
 
 ![Profile views](https://komarev.com/ghpvc/?username=stdian&color=brightgreen) [![Discord](https://img.shields.io/discord/416940275223625738)](https://discord.gg/tfanwYd)![](https://hit.yhype.me/github/profile?user_id=15340847)
 # GitHub Stats 📈
@@ -15,7 +15,5 @@
 * Telegram: [@stdian](https://t.me/stdian)
 * E-Mail: [i@stdian.ru](mailto:i@stdian.ru)
 * VK: [vk.com/nestdian](https://vk.com/nestdian)
-* Discord: stdian#0637
-* NLBook: [nlbook.net](http://nlbook.net)
 * NameLess Discord Server: [discord.gg/tfanwYd](https://discord.gg/tfanwYd)
 * Nameless organization: [github.com/NameLessCorporation](https://github.com/NameLessCorporation)
